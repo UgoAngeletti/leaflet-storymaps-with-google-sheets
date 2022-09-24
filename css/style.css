@@ -47,7 +47,7 @@ body {
   position: absolute;
   left: 0;
   top: 203px;
-  background-color: white;
+  background-color: #64B2CD;
   width: 100vw;
   z-index: 100;
   margin: 0;
@@ -144,10 +144,10 @@ a.source:visited {
 
 /* Storymap logo image above the title */
 #logo {
-  height: 30px;
-  line-height: 30px;
+  height: 40px;
+  line-height: 40px;
   text-align: center;
-  padding: 10px;
+  padding: 20px;
   max-width: 100%;
 }
 
